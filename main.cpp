@@ -37,7 +37,7 @@ public:
     void createAcct(AccountHolder a[],int n)
 {
          cout<<"---------------------------::CREATE ACCOUNT::-------------------"<<endl;
-       /* cout<<"ENTER FIRST NAME :";
+        cout<<"ENTER FIRST NAME :";
         cin>>fname;
         cout<<"OK.."<<endl;
         cout<<"ENTER LAST NAME :";
@@ -48,7 +48,7 @@ public:
         cout<<"OK.."<<endl;
         cout<<"ENTER ADDRESS :";
         cin>>add;
-        cout<<"OK.."<<endl;*/
+        cout<<"OK.."<<endl;
     cout<<"CREATE USERANME :";
     cin>>uname;
     cout<<"CREATE PASSWORD :";
